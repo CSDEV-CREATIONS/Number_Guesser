@@ -1,0 +1,13 @@
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.exe
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.deps.json
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.runtimeconfig.json
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.runtimeconfig.dev.json
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.dll
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.pdb
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.csprojAssemblyReference.cache
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.AssemblyInfoInputs.cache
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.AssemblyInfo.cs
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.csproj.CoreCompileInputs.cache
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.dll
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.pdb
+C:\Users\Owner\desktop\Git_Repos\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.genruntimeconfig.cache
